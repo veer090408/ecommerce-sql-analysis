@@ -8,3 +8,8 @@ Monthly Revenue Trend: Analyzing monthly transaction trend  to observe sales gro
 
 Database: SQLite
 Language & Libraries: Python, Pandas
+
+Summary of Insights:
+1. Top Revenue Generator: Top product categories account for the largest share of revenue from all e-commerce transactions.
+2. Sales Trend: There is a discernible pattern in the month-to-month changes in total transactions, which can be leveraged for store promotional strategies.
+3. Data Processing: Succesfuly processed 100k+ line of transaction data effeciently using the combination of sql query and pandas library.
